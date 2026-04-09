@@ -6,7 +6,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)  
 
 **Capstone Project #2 – Data Science & Machine Learning Program**
+
 **Institution:** Purwadhika Digital School
+
 **Creator:** Rivaldi
 
 ---
