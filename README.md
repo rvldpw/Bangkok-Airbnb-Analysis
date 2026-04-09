@@ -5,9 +5,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-lightgrey)  
 ![License](https://img.shields.io/badge/License-MIT-green)  
 
-**Project Type:** Data Science / Market & Pricing Analytics  
-**Creator:** Rivaldi  
-**Institution:** Purwadhika Digital School (Capstone Project #2)
+**Capstone Project #2 – Data Science & Machine Learning Program**
+**Institution:** Purwadhika Digital School
+**Creator:** Rivaldi
 
 ---
 
