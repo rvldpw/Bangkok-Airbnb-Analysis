@@ -148,11 +148,11 @@ Private rooms show structural underperformance due to oversupply and weak demand
 
 - Environment: Conda  
 - Editor: Visual Studio Code  
-- Visualization & Reporting: Tableau, Canva  
+- Visualization & Reporting: Tableau, Canva
 
 ---
 
-## Repository Structure  
+## Repository Structure
 
 ```text
 ├── README.md
@@ -160,8 +160,12 @@ Private rooms show structural underperformance due to oversupply and weak demand
 ├── airbnb_bangkok_listings.csv
 
 ---
- 
-## 🔗 Links
- 
-- 📊 **Tableau Dashboard:** [Bangkok Airbnb Pricing & Demand Insights](https://public.tableau.com/app/profile/rvld/viz/BangkokAirbnbPricingDemandInsights/Dashboard)
-- 🎨 **Canva Presentation:** [Bangkok Airbnb Pricing Analytics](https://bangkok-airbnb-pricing-analystics.my.canva.site/)
+
+```md
+## Links
+
+- Tableau Dashboard: Bangkok Airbnb Pricing & Demand Insights  
+  https://public.tableau.com/app/profile/rvld/viz/BangkokAirbnbPricingDemandInsights/Dashboard
+
+- Canva Presentation: Bangkok Airbnb Pricing Analytics  
+  https://bangkok-airbnb-pricing-analystics.my.canva.site/
