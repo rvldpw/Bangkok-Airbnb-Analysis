@@ -17,7 +17,7 @@ This project is an **exploratory and strategic analysis of Bangkok Airbnb listin
 
 Developed as part of a **Data Science & Analytics program at Purwadhika Digital School**, this project simulates real-world pricing and revenue management decision-making for Airbnb’s marketplace.
 
-It is designed to support **Revenue Management / Pricing teams** by identifying demand patterns, optimizing host pricing behavior, and improving supply allocation across Bangkok.
+It is designed to support **Revenue Management / Pricing teams** by identifying demand patterns, optimizing host pricing for existing listings, and improving supply allocation across Bangkok.
 
 --- 
 
@@ -46,7 +46,7 @@ Revenue Management/Pricing teams responsible for optimizing marketplace performa
 - Identify high-performing price and room type segments  
 - Provide data-driven pricing recommendations for hosts  
 - Highlight top-performing neighbourhood and demand combinations  
-- Enable smarter in-app recommendations and host targeting  
+- Enable smarter pricing recommendations and unit listing expansion
 
 ---
 
