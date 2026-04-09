@@ -1,4 +1,4 @@
-# Bangkok Airbnb Pricing & Demand Analytics
+# 🌏 Bangkok Airbnb Pricing & Demand Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)  
 ![Status](https://img.shields.io/badge/Status-Completed-green)  
