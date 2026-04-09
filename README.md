@@ -62,7 +62,7 @@ Revenue management teams, pricing analysts, and marketplace strategy teams respo
 
 | Metric | Value |
 |---|---|
-| Source | Inside Airbnb — Bangkok listings |
+| Source | Airbnb Bangkok listings |
 | Initial rows | 15,854 |
 | Final rows | 14,839 (-6.4%) |
 | Columns | 17 |
@@ -157,7 +157,7 @@ Private rooms show structural underperformance due to oversupply and weak demand
 ```text
 ├── README.md
 ├── bangkok_airbnb_analysis.ipynb
-├── listings.csv
+├── airbnb_bangkok_listings.csv
 
 ---
  
