@@ -143,25 +143,27 @@ Private rooms show structural underperformance due to oversupply and weak demand
 
 ## Libraries  
 
-- pandas — data manipulation and analysis  
-- numpy — numerical computation  
-- matplotlib / seaborn — data visualization  
-- folium — interactive geospatial mapping  
-- scipy — statistical analysis (Kruskal-Wallis, Spearman)  
-
----
-
-## Environment & Tools  
-
-- Environment: Conda  
-- Editor: Visual Studio Code  
-- Visualization & Reporting: Tableau, Canva
+- pandas: data manipulation and analysis  
+- numpy: numerical computation  
+- matplotlib / seaborn:data visualization  
+- folium: interactive geospatial mapping  
+- scipy: statistical analysis (Kruskal-Wallis, Spearman)  
 
 ---
 
 ## Repository Structure
 
 ```text
-├── README.md
-├── bangkok_airbnb_analysis.ipynb
-├── airbnb_bangkok_listings.csv
+ ├── README.md
+ ├── bangkok_airbnb_analysis.ipynb
+ ├── airbnb_bangkok_listings.csv
+```
+
+---
+
+## Environment & Tools  
+
+- Programming Language: Python  
+- Environment: Conda (local machine)  
+- Editor: Jupyter Notebook  
+- Visualization & Reporting: Tableau, Canva  
