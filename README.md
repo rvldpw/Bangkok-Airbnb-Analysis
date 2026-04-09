@@ -147,11 +147,11 @@ Private rooms show structural underperformance due to oversupply and weak demand
 
 ## Libraries  
 
-- pandas: data manipulation and analysis  
-- numpy: numerical computation  
-- matplotlib / seaborn: data visualization  
-- folium: interactive geospatial mapping  
-- scipy: statistical analysis (Kruskal-Wallis, Spearman)  
+- **pandas**: data manipulation, cleaning, and tabular data analysis  
+- **numpy**: numerical computing and array operations  
+- **matplotlib / seaborn**: visualization for trends, patterns, and distributions  
+- **folium**: interactive mapping for geospatial analysis  
+- **scipy**: statistical testing (Kruskal-Wallis, Spearman)  
 
 ---
 
