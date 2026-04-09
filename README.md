@@ -134,6 +134,13 @@ Private rooms show structural underperformance due to oversupply and weak demand
 
 ---
 
+## 🔗 Links
+ 
+- 📊 **Tableau Dashboard:** [Bangkok Airbnb Pricing & Demand Insights](https://public.tableau.com/app/profile/rvld/viz/BangkokAirbnbPricingDemandInsights/Dashboard)
+- 🎨 **Canva Presentation:** [Bangkok Airbnb Pricing Analytics](https://bangkok-airbnb-pricing-analystics.my.canva.site/)
+
+---
+
 ## Libraries  
 
 - pandas — data manipulation and analysis  
@@ -158,14 +165,3 @@ Private rooms show structural underperformance due to oversupply and weak demand
 ├── README.md
 ├── bangkok_airbnb_analysis.ipynb
 ├── airbnb_bangkok_listings.csv
-
----
-
-```md
-## Links
-
-- Tableau Dashboard: Bangkok Airbnb Pricing & Demand Insights  
-  https://public.tableau.com/app/profile/rvld/viz/BangkokAirbnbPricingDemandInsights/Dashboard
-
-- Canva Presentation: Bangkok Airbnb Pricing Analytics  
-  https://bangkok-airbnb-pricing-analystics.my.canva.site/
