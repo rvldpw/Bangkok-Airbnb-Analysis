@@ -159,8 +159,8 @@ Private rooms show structural underperformance due to oversupply and weak demand
 
 ```text
  ├── README.md
- ├── bangkok_airbnb_analysis.ipynb
  ├── airbnb_bangkok_listings.csv
+ ├── bangkok_airbnb_analysis.ipynb
 ```
 
 ---
