@@ -19,16 +19,18 @@ Developed as part of a **Data Science & Analytics program at Purwadhika Digital 
 
 It is designed to support **Revenue Management / Pricing teams** by identifying demand patterns, optimizing host pricing behavior, and improving supply allocation across Bangkok.
 
+--- 
+
 ## Context, Problem, and Users  
 
-1. **Context**  
-Airbnb listings in Bangkok show strong variation in price and demand across neighbourhoods and room types, requiring structured pricing guidance.
+**1. Context**  
+The Bangkok Airbnb market varies significantly across price levels, neighbourhoods, and room types. Central and transit-connected areas generally show stronger demand, while peripheral zones and private rooms tend to underperform. This creates a fragmented market where performance depends heavily on correct price–location–room type alignment.
 
-2. **Problem**  
-Without data-driven segmentation, pricing decisions become inconsistent, leading to oversupply in low-demand segments and under-optimization of high-demand areas.
+**2. Problem**  
+Without clear segmentation, it is difficult to identify which combinations of price, neighbourhood, and room type drive consistent bookings. This leads to mispricing, with some listings overpricing in weak-demand segments and others underpricing in strong-demand areas. As a result, demand is unevenly distributed and revenue potential is not fully captured.
 
-3. **Users**  
-Revenue management teams, pricing analysts, and marketplace strategy teams responsible for optimizing listing performance.
+**3. Users**  
+Revenue Management/Pricing teams responsible for optimizing marketplace performance. They need insights to prioritize high-performing segments and guide host pricing decisions to improve booking consistency and demand allocation.
 
 ---
 
@@ -124,7 +126,9 @@ Entire homes in **Bang Rak / Khlong Toei**, priced **1,200–2,400 THB**, show t
 
 Private rooms show structural underperformance due to oversupply and weak demand above **2,500 THB**, requiring stronger pricing discipline and better positioning.
 
-### Focus Areas  
+---
+
+## Focus Areas  
 
 - Educate hosts through in-app insights, emails, and seminars  
 - Optimize private rooms near transit-accessible areas  
@@ -145,7 +149,7 @@ Private rooms show structural underperformance due to oversupply and weak demand
 
 - pandas: data manipulation and analysis  
 - numpy: numerical computation  
-- matplotlib / seaborn:data visualization  
+- matplotlib / seaborn: data visualization  
 - folium: interactive geospatial mapping  
 - scipy: statistical analysis (Kruskal-Wallis, Spearman)  
 
